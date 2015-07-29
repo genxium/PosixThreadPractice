@@ -1,2 +1,4 @@
 compare_ignore_join_detach
 compare_join_detach
+investigate_thread_attributes
+*.dSYM*
